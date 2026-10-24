@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,supplier
+P001,Laptop,Electronics,1450.0,TechSupply
+P002,Smartphone,Electronics,899.5,TechSupply
+P003,Monitor,Electronics,320.0,ScreenWorks
+P004,Keyboard,Electronics,45.9,ScreenWorks
+P005,Headphones,Electronics,129.99,AudioPlus
+P006,Office Chair,furniture,210.0,HomeStyle
+P007,Desk,Furniture,340.0,HomeStyle
+P008,Bookshelf,Furniture,175.5,WoodCraft
+P009,Lamp,Furniture,65.0,WoodCraft
+P010,Notebook,Stationery,4.5,PaperCo
+P011,Pen Set,Stationery,,PaperCo
+P012,Backpack,Accessories,89.0,BagMakers
+P013,Water Bottle,Accessories,22.5,BagMakers
+P014,Mouse Pad,Accessories,15.0,
+P015,Webcam,Electronics,110.0,AudioPlus
